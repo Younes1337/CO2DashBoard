@@ -18,4 +18,4 @@ pyhton -m pip install panel
 ```
 python -m pip install hvplot jupyter
 ```
-for more docs about panel and some advanced cocepts you can visit this link [Panel Docs](https://panel.holoviz.org/)
+for more docs about panel and some advanced concepts like cashing and multiprocessing you can visit this link [Panel Docs](https://panel.holoviz.org/)
