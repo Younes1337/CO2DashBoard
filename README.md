@@ -1,4 +1,4 @@
 # python-dashboard using panel 📊
-![Alt text](C:\Users\user\OneDrive\Bureau\logo_stacked.png "Panel-Python")
+<img src="https://panel.holoviz.org/_images/logo_stacked.png" width="128"/>
 Interactive visualization dashboard in Python with Panel
 
