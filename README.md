@@ -10,11 +10,11 @@ panel serve CO2_DASH.ipynb
 
 before running the project you need some requirements to be installed:
 
-1. **Installing Panel package using pip**:
+**1. Installing Panel package using pip:**
 ```
 pyhton -m pip install panel 
 ```
-2. **Installing hvtplot fot jupyter notebook**:
+**2. Installing hvtplot fot jupyter notebook:**
 ```
 python -m pip install hvplot jupyter
 ```
